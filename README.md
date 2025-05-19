@@ -27,14 +27,14 @@ Git, GitHub, Clean Architecture, Figma, Postman
 ### [Tetris Game](https://github.com/Alex-Yu21/tetris)
 Classic Tetris implementation: rotation, gravity, and line-clearing logic.  
 *Stack:* Flutter, Dart  
-*Demo:* [Tetris demo.mp4](link-to-demo)
+*Demo:* [Tetris demo.mp4]([link-to-demo](https://drive.google.com/file/d/1taNvaVJcDeDBvSSDnQACHdbXCWrCeDGV/view?usp=sharing))
 
 ---
 
 ### [Rick and Morty Characters App](https://github.com/Alex-Yu21/rick_and_morty)
 Browse characters from the animated series. Favorites and offline access via Hive.  
 *Stack:* Flutter, Dart, BLoC, Hive, Dio, Provider  
-*Demo:* [Rick and Morty demo.mp4](link-to-demo)
+*Demo:* [Rick and Morty demo.mp4](https://drive.google.com/file/d/1VOyPtN3TUKossq31uFFba8uEOr086hGZ/view)
 
 ---
 

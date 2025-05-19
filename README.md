@@ -26,7 +26,7 @@ I’m a Flutter developer with a strong technical background and a passion for b
 ### [Tetris Game](https://github.com/Alex-Yu21/tetris)
 Classic Tetris implementation: rotation, gravity, and line-clearing logic.  
 *Stack:* Flutter, Dart  
-*Demo:* [Tetris demo.mp4]([link-to-demo](https://drive.google.com/file/d/1taNvaVJcDeDBvSSDnQACHdbXCWrCeDGV/view?usp=sharing))
+*Demo:* [Tetris demo.mp4](https://drive.google.com/file/d/1taNvaVJcDeDBvSSDnQACHdbXCWrCeDGV/view?usp=sharing)
 
 ---
 

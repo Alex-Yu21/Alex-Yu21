@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alex-yu21) [![GitHub](https://img.shields.io/badge/GitHub-Alex--Yu21-black?logo=github)](https://github.com/Alex-Yu21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/alex-yu21)
 
 ---
 

@@ -17,9 +17,10 @@ I’m a Flutter developer with a strong technical background and a passion for b
 
 ## 🛠️ Tech Stack
 
-Flutter, Dart, Firebase (Firestore), Hive, BLoC, Dio (REST API), Provider  
-Git, GitHub, Clean Architecture, Figma, Postman  
+## 🛠️ Tech Stack
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge) ![BLoC](https://img.shields.io/badge/BLoC-21B6A8?logo=bloc&logoColor=white&style=for-the-badge) ![Hive](https://img.shields.io/badge/Hive-FFC107?logo=hive&logoColor=black&style=for-the-badge) ![Provider](https://img.shields.io/badge/Provider-009688?style=for-the-badge) ![Dio](https://img.shields.io/badge/Dio-007AFF?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node-dot-js&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+ 
 ---
 
 ## 🗂️ Projects

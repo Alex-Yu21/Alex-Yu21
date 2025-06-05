@@ -9,8 +9,7 @@
 I’m a Flutter developer with a strong technical background and a passion for building elegant, user-focused mobile applications.
 
 - 📍 Based in Tivat, Montenegro
-- 💡 Focused on clean architecture, UI/UX, and production-ready apps
-- 🚀 Currently working in Bhuvih HR Solutions - India
+- 💡 Focused on clean architecture, UI/UX, and production-ready app
 - 🤝 Open to collaboration
 
 ---
